@@ -1,4 +1,4 @@
-package com.aryasurya.todoapps
+package com.aryasurya.snapfolioapp
 
 import org.junit.Test
 

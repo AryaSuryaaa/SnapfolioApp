@@ -1,11 +1,11 @@
-package com.aryasurya.todoapps
+package com.aryasurya.snapfolioapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
-import com.aryasurya.todoapps.databinding.ActivityEntryBinding
+import com.aryasurya.snapfolioapp.databinding.ActivityEntryBinding
 
 class EntryActivity : AppCompatActivity(), View.OnClickListener {
 

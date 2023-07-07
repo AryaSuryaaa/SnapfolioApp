@@ -1,4 +1,4 @@
-package com.aryasurya.todoapps
+package com.aryasurya.snapfolioapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

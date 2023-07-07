@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.aryasurya.todoapps'
+    namespace 'com.aryasurya.snapfolioapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.aryasurya.todoapps"
+        applicationId "com.aryasurya.snapfolioapp"
         minSdk 24
         targetSdk 33
         versionCode 1

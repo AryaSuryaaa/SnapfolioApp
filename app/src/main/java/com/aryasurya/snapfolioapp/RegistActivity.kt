@@ -1,10 +1,9 @@
-package com.aryasurya.todoapps
+package com.aryasurya.snapfolioapp
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.aryasurya.todoapps.databinding.ActivityRegistBinding
+import com.aryasurya.snapfolioapp.databinding.ActivityRegistBinding
 
 class RegistActivity : AppCompatActivity() {
 
