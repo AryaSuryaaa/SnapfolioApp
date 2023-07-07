@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TodoApps" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorPrimaryContainer">@color/primaryConntainer</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainer</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainer</item>
+
+        <item name="colorSurfaceDim">@color/surfaceDim</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorSurfaceBright">@color/surfaceBright</item>
+    </style>
+
+    <style name="circleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="Theme.TodoApps" parent="Base.Theme.TodoApps" />
+
+    <style name="TextContent">
+        <item name="android:fontFamily">@font/lexend_deca_regular</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="TextContent.Title">
+        <item name="android:fontFamily">@font/lexend_deca_bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="TextContent.Desc">
+        <item name="android:fontFamily">@font/lexend_deca_light</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
