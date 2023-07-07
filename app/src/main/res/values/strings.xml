@@ -4,4 +4,11 @@
     <string name="desc_start">This productive tool is designed to help you better manage your task project-wise conveniently!</string>
     <string name="display_img_start">display_img_start</string>
     <string name="display_button_start">Let\'s Start</string>
+    <string name="alreadyAcc">Already have an account?</string>
+    <string name="toLogin">Login here</string>
+    <string name="btnRegister">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="orUseEmail">or use your email account</string>
 </resources>
